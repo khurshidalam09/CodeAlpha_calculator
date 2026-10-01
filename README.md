@@ -2,16 +2,6 @@
 
 A clean, responsive, and interactive **Calculator Web Application** built using **HTML, CSS, and JavaScript**. The project provides a modern calculator interface with arithmetic operations, keyboard/NumPad support, error handling, and interactive button effects.
 
-## 🚀 Live Demo
-
-**Live Demo:** Add your deployed project URL here
-
-Example:
-
-`https://your-username.github.io/calculator/`
-
----
-
 ## 📌 Features
 
 * ➕ Addition
@@ -46,8 +36,6 @@ Example:
 ## 📂 Project Structure
 
 ```text
-calculator/
-│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -137,53 +125,12 @@ The calculator uses a modern dark interface with:
 
 ---
 
-## ⚙️ How It Works
-
-The calculator accepts user input through either the on-screen buttons or the physical keyboard.
-
-For example:
-
-```text
-10 + 20
-```
-
-After pressing `=` or `Enter`:
-
-```text
-30
-```
-
-Another example:
-
-```text
-100 / 4
-```
-
-Result:
-
-```text
-25
-```
-
----
-
 ## 🔧 Installation & Usage
 
 No external libraries or frameworks are required.
 
 ### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/calculator.git
-```
-
-### 2. Open the project
-
-```bash
-cd calculator
-```
-
-### 3. Run the application
+### 2. Run the application
 
 Simply open:
 
@@ -207,16 +154,6 @@ The calculator works with modern browsers including:
 * Safari
 * Opera
 
----
-
-## 🔒 Security Note
-
-This project is designed as a **basic educational calculator**.
-
-The current implementation uses JavaScript expression evaluation for arithmetic calculations. For a production-grade application, the calculation engine should use a dedicated expression parser instead of dynamically evaluating expressions.
-
----
-
 ## 🎯 Learning Objectives
 
 This project demonstrates practical understanding of:
@@ -233,57 +170,8 @@ This project demonstrates practical understanding of:
 * Basic error handling
 * Responsive UI development
 
----
-
-## 🔮 Future Improvements
-
-Potential improvements include:
-
-* [ ] Calculation history
-* [ ] Scientific calculator mode
-* [ ] Dark/Light theme switcher
-* [ ] Memory functions (`M+`, `M-`, `MR`, `MC`)
-* [ ] Advanced mathematical functions
-* [ ] Copy result button
-* [ ] Calculation history stored in LocalStorage
-* [ ] Improved expression parser
-* [ ] Accessibility improvements
-* [ ] Progressive Web App support
-
----
-
-## 📸 Screenshots
-
-Add screenshots of your calculator here.
-
-Example:
-
-```markdown
-![Calculator Screenshot](./screenshots/calculator.png)
-```
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
-
 ## 👨‍💻 Author
 
-**Prakash Yadav**
+**Khurshid Alam**
 
 BTech Computer Science & Engineering
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
-
----
-
-### 💡 Project Purpose
-
-This calculator was developed as a practical **HTML, CSS, and JavaScript project** to demonstrate frontend development fundamentals, interactive UI design, DOM manipulation, and keyboard-based user interaction.
