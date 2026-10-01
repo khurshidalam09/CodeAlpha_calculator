@@ -2,6 +2,9 @@
 
 A clean, responsive, and interactive **Calculator Web Application** built using **HTML, CSS, and JavaScript**. The project provides a modern calculator interface with arithmetic operations, keyboard/NumPad support, error handling, and interactive button effects.
 
+🚀 Live Demo
+Live Demo: https://khurshidalam09.github.io/CodeAlpha_calculator/
+
 ## 📌 Features
 
 * ➕ Addition
